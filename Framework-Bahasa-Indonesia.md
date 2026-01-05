@@ -1,3 +1,6 @@
+deepseek thread
+https://chat.deepseek.com/a/chat/s/826b6b57-50b3-46ae-9c23-d7b59e59fb21
+
 # **Kerangka Makalah:**
 **"Pemodelan Titik Didih Komponen Minyak Bumi dengan Random Forest untuk Optimasi Proses Distilasi dan Formulasi Produk BBM"**
 

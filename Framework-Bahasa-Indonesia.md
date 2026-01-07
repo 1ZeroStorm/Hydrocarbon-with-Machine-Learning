@@ -159,7 +159,7 @@ Target = {
 ### **C. Alur Penelitian**
 ```mermaid
 graph TD
-    A[Kumpulkan Data<br>50 Senyawa] --> B[Input ke Python]
+    A[Kumpulkan Data] --> B[Input dalam bahasa pemrograman python]
     B --> C[Latih Model<br>Random Forest]
     C --> D{Uji Akurasi?}
     D -- Akurat --> E[Analisis Hasil]
